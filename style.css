@@ -1,1 +1,20 @@
+h1 {
+    font-size: 50px;
+    color: #ecd9ca;
+}
 
+body {
+    background-color:#253546;
+}
+
+p {
+    width: 500px;
+    color: #ecd9ca;
+    font-size: 25px;
+
+}
+
+h2 {
+    color: #c82a3e;
+    font-size: 40px;
+}
